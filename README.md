@@ -1,1 +1,2 @@
-# super-awesome-eda
+# Super Awesome Exploratory Data Analysis (EDA)
+
